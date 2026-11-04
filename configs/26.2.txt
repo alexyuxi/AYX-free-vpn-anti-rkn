@@ -1,2 +1,1 @@
 # Подписка 26.2.txt | Обход (полный)
-vless://Podval_385284@87.199.207.72:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=random&security=reality&pbk=tQXEXTiJVRoqPcgyXWegEQbUUFzWQVFZhBY6Sak0aC0&sid=ffffffffff#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20sun6-21.userapi.com
